@@ -1,0 +1,29 @@
+_repo: Himlauret-eller-det-profetiska-ordetH-nvisningar.-3--fversigtstabeller-och-1-diagram_15786
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franson, Fredrik
+    alias: Franson, August Fredrik
+    birthdate: 1852
+    deathdate: 1908
+    gutenberg_agent_id: '6289'
+    url: http://www.gutenberg.org/2009/agents/6289
+description: ''
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15786'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Prophecies'
+- !lcc 'BS'
+title: 'Himlauret eller det profetiska ordet
+
+  Hänvisningar. 3 öfversigtstabeller och 1 diagram'
+url: http://www.gutenberg.org/ebooks/15786
